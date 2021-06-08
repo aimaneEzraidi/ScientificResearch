@@ -1,5 +1,5 @@
 # Scientific Research
-This a project to manage Scientific Research developed with SpringBoot and AngularJs
+This is a project to manage Scientific Research developed with SpringBoot and AngularJs
 
 ---
  **Application Screens:**
